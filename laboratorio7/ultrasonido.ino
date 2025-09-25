@@ -24,4 +24,6 @@ void loop(){
     digitalWrite(LED,LOW);
   }
 
+
 }         
+//simulacion del programa en: https://www.tinkercad.com/things/eDtbxDvB25w-ultrasonido?sharecode=U8fc3_VaP1oggb1Kb54IgbT0GWmsJQzoM3VVN2_rnm8
