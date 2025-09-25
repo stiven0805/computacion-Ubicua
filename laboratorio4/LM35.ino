@@ -14,3 +14,4 @@ void loop() {
   Serial.println(TEMPERATURA, 1);
   delay(2000);
 }
+//simulacion en: https://www.tinkercad.com/things/kQWaRs7khCj-temperatura-lm35?sharecode=G41Fw_Pc9cBk75myrezJSxF1D_4hbP4_Xuv0v__iZME
