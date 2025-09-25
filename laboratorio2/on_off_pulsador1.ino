@@ -17,3 +17,5 @@ void loop(){
   
   while(digitalRead(PULSADOR) == HIGH) { }  // Espera a que se suelte el botón
 }
+
+//simulacion en:https://www.tinkercad.com/things/dx3rzhS1Wxy-onoff-pulsador?sharecode=PuOW85Z_OrnbvLp6UbaOKFfVU2ckW3B5UQsrxXUW72A
