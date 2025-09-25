@@ -24,4 +24,6 @@ void loop(){
     digitalWrite(LED,LOW);
   }
 
+
 }         
+//simulacion en: https://wokwi.com/projects/441453068919496705
